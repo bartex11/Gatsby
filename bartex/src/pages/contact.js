@@ -20,7 +20,7 @@ const Contact = ({ data }) => {
       <SEO postNode={postNode} pagePath="contact" customTitle />
 
       <Container>
-        <PageTitle>Contact</PageTitle>
+        <PageTitle>Bartex Contact</PageTitle>
         <ContactForm />
       </Container>
     </Layout>
